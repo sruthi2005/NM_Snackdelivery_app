@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="burger_background">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">SnackSquad</string>
+    <string name="bingo">All In One</string>
+    <string name="bingo_price">60.99</string>
+    <string name="burger">Tequila</string>
+    <string name="burger_price">8.00</string>
+    <string name="coke">Salad</string>
+    <string name="coke_price">25.99</string>
+    <string name="french_fries">Pasta</string>
+    <string name="french_fries_price">50.99</string>
+    <string name="pasta">Pop Corn</string>
+    <string name="pasta_price">12.99</string>
+    <string name="popcorn">Wine</string>
+    <string name="popcorn_price">800.00</string>
+    <string name="salad">Burger</string>
+    <string name="salad_price">50.99</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="title_activity_cart_page">CartPage</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main1">MainActivity1</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="title_activity_page">ActivityPage</string>
+    <string name="title_activity_target">TargetActivity</string>
+    <style name="Theme.SnackOrdering" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>

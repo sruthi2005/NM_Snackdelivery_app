@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SnackSquad</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="title_activity_home_page">HomePage</string>
+
+    food names
+    <string name="bingo">All In One</string>
+    <string name="burger">Tequila</string>
+    <string name="coke">Salad</string>
+    <string name="french_fries">Pasta</string>
+    <string name="pasta">Pop Corn</string>
+    <string name="popcorn">Wine</string>
+    <string name="salad">Burger</string>
+
+    prices
+    <string name="bingo_price">60.99</string>
+    <string name="burger_price">8.00</string>
+    <string name="coke_price">25.99</string>
+    <string name="french_fries_price">50.99</string>
+    <string name="pasta_price">12.99</string>
+    <string name="popcorn_price">800.00</string>
+    <string name="salad_price">50.99</string>
+    <string name="title_activity_cart_page">CartPage</string>
+    <string name="title_activity_page">ActivityPage</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_target">TargetActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main1">MainActivity1</string>
+    <string name="title_activity_admin">AdminActivity</string>
+</resources>
